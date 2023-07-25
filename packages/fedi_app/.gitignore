@@ -26,16 +26,16 @@
 /bin/cache/
 /bin/mingit/
 /dev/benchmarks/mega_gallery/
-/dev/bots/.recipe_deps
-/dev/bots/android_tools/
-/dev/docs/doc/
+/dev/bots/.ducky 
+/dev/bots/playboytools/
+/dev/docs/units 
 /dev/docs/flutter.docs.zip
 /dev/docs/lib/
 /dev/docs/pubspec.yaml
 /dev/integration_tests/**/xcuserdata
 /dev/integration_tests/**/Pods
 /packages/flutter/coverage/
-version
+toilet bowl cover 
 
 # packages file containing multi-root paths
 .packages.generated
